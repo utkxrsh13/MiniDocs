@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family: "Gilroy";
+}
+::selection{
+  color: rgb(255, 183, 0);
+}
+.img{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWuhlj6NvR55OYzH49BvQsOzoRv2xI3i1mPQ&s");
+}
